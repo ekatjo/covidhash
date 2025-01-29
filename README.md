@@ -1,3 +1,4 @@
+<h1>Description</h1>
 C++ code that implements a hash table utilizing the separate collision method to solve most collision problems.
 
 <h1>How it works</h1>
